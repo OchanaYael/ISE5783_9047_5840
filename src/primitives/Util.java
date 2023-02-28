@@ -29,7 +29,7 @@ public abstract class Util {
 
 	/**
 	 * Checks whether the number is [almost] zero
-	 
+	 **yael
 	 * @param number the number to check
 	 * @return true if the number is zero or almost zero, false otherwise
 	 */
