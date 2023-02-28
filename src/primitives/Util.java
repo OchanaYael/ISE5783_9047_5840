@@ -49,7 +49,7 @@ public abstract class Util {
 
 	/**
 	 * Check whether two numbers have the same sign
-	 * yael ochana
+	 * yael ochanabgdz
 	 * @param n1 1st number
 	 * @param n2 2nd number
 	 * @return true if the numbers have the same sign
